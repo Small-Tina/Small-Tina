@@ -40,7 +40,7 @@
 
 <p align="center">
     
-  ![Static Badge](https://img.shields.io/badge/build-SmallTina-white?style=flat&logo=bilibili&logoColor=00A1D6&label=Bilibili&labelColor=ffffff&color=ff5caa&link=https%3A%2F%2Fspace.bilibili.com%2F290731672)
+  ![Static Badge](https://img.shields.io/badge/Bilibili-SmallTina-white?style=flat&logo=bilibili&logoColor=00A1D6&label=Bilibili&labelColor=ffffff&color=ff5caa&link=https%3A%2F%2Fspace.bilibili.com%2F290731672)
 </p>
 
 ⭐️ From [Small-Tina](https://github.com/Small-Tina)
