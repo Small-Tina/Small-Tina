@@ -39,12 +39,8 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-
-![Static Badge](https://img.shields.io/badge/build-subscribe-brightgreen?style=flat&logo=bilibili&logoColor=ffffff&label=Bilibili&labelColor=01affd&color=ff5caa&link=https%3A%2F%2Fspace.bilibili.com%2F290731672)
-
-![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fspace.bilibili.com%2F290731672&query=%24.name)
-
   
+![Static Badge](https://img.shields.io/badge/build-subscribe-brightgreen?style=flat&logo=bilibili&logoColor=ffffff&label=Bilibili&labelColor=01affd&color=ff5caa&link=https%3A%2F%2Fspace.bilibili.com%2F290731672)
 </p>
 
 ⭐️ From [Small-Tina](https://github.com/Small-Tina)
