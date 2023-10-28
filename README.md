@@ -30,8 +30,8 @@
 <br/>
 
 <a href="https://github.com/Small-Tina">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Small-Tina&theme=buefy&show_icons=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Small-Tina&theme=buefy&layout=compact" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Small-Tina&theme=buefy&show_icons=true" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Small-Tina&theme=buefy&layout=compact" />
 </a>
 
 <br/>
