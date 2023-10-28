@@ -39,7 +39,9 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
+
 ![GitHub contributors (via allcontributors.org)](https://img.shields.io/github/all-contributors/:user/:repo/:branch)
+  
 </p>
 
 ⭐️ From [Small-Tina](https://github.com/Small-Tina)
