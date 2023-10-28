@@ -40,7 +40,7 @@
 
 <p align="center">
 
-![GitHub contributors (via allcontributors.org)](https://img.shields.io/github/all-contributors/:user/:repo/:branch)
+![Static Badge](https://img.shields.io/badge/build-subscribe-brightgreen?style=flat&logo=bilibili&logoColor=ffffff&label=Bilibili&labelColor=01affd&color=ff5caa&link=https%3A%2F%2Fspace.bilibili.com%2F290731672)
   
 </p>
 
