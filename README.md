@@ -2,11 +2,11 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; 
-- 🎓 &nbsp; 
-- 💼 &nbsp; 
-- 🌱 &nbsp; 
-- ✍️ &nbsp; 
+- 🤔 &nbsp; Learning about front-end and back-end In the laboratory
+- 🎓 &nbsp; Studying Computer Science at Southwest University of Science and Technology
+- 💼 &nbsp; Working as an undergraduate in the Data and Knowledge Engineering Lab at Southwest University of Science and Technology Currently
+- 🌱 &nbsp; Currently learning vue, react and Java
+- ✍️ &nbsp; Photography and AzurLane as hobbies
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
