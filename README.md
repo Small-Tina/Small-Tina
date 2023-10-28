@@ -40,7 +40,8 @@
 
 <p align="center">
     
-  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dbilibili%26queryKey%3D290731672&query=%24.data.totalSubs&prefix=Follow&logo=bilibili&logoColor=00A1D6&label=BiliBili&labelColor=FFFFFF&color=F562A8)
+  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dbilibili%26queryKey%3D290731672&query=%24.data.totalSubs&prefix=Follows%20&logo=bilibili&logoColor=00A1D6&label=BiliBili&labelColor=FFFFFF&color=F562A8&link=https%3A%2F%2Fspace.bilibili.com%2F290731672)
+
 
 </p>
 
